@@ -19,5 +19,7 @@ The [book errata](https://pragprog.com/cms/errata/rails6-errata/).
 - Iteration B: Validation and Unit Testing.
   - B1: Validating!
     - Add validation rules to the model.
-  - B2: Unit Testing of Models
-    - Add tests
+  - B2: Unit Testing of Models.
+    - Add tests.
+    - Add fixture.
+    - Fix broken controller test.
