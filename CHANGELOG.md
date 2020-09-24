@@ -14,3 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Iteration A2:
   - Add seed data. Add seed data from book source (too much to type).
   - Add images from book source
+- Iteration B: Validation and Unit Testing.
+  - B1: Validating!
+    - Add validation rules to the model.
