@@ -12,5 +12,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Add Products scaffold.
   - Amend layout of form text field.
 - Iteration A2:
-  - Add seed data
+  - Add seed data. Add seed data from book source (too much to type).
   - Add images from book source
