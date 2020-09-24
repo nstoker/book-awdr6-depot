@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Iteration A: Initial project creation.
 - Iteration A1:
   - Add Products scaffold.
+  - Amend layout of form text field.
