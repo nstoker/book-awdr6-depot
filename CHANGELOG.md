@@ -23,3 +23,6 @@ The [book errata](https://pragprog.com/cms/errata/rails6-errata/).
     - Add tests.
     - Add fixture.
     - Fix broken controller test.
+- Guard
+  - Added guard with a handful of plugins
+- Task C: Catalog Display
